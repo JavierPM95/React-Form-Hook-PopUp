@@ -14,7 +14,7 @@ function App() {
   const [users, setUsers] = useState(usersData);
 
   //State Edit
-  const userIniSta = { id: null, name: "", username: "" }
+  const userIniSta = { id: null, name: "", username: "" };
   const [editingForm, setEditingForm] = useState(false);
   const [currentUser, setCurrentUser] = useState([userIniSta]);
 
@@ -48,7 +48,7 @@ function App() {
 
   const updateUser = (id, updateUser) => {
     setUsers(users.map((user) => (user.id === id ? updateUser : user)));
-    setCurrentUser([userIniSta])
+    setCurrentUser([userIniSta]);
   };
 
   //Open Modal

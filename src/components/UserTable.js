@@ -19,7 +19,9 @@ const userTable = (props) => {
               <td>
                 <button
                   className="btn btn-info form-control d-block my-1"
-                  onClick={() => {props.editRow(user)}}
+                  onClick={() => {
+                    props.editRow(user);
+                  }}
                 >
                   Edit
                 </button>
