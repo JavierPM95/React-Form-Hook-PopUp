@@ -60,7 +60,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="my-4">CRUD App</h1>
+      <h1 className="my-4">CRUD App - Form Hook</h1>
       <div className="row">
         <div className="col-md-4">
           <h2>Add users</h2>

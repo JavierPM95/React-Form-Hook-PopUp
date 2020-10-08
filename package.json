@@ -2,7 +2,7 @@
   "name": "modals-crud-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JavierPM95.github.io/React-Form-Hook-PopUp",
+  "homepage": "https://javierpm95.github.io/React-Form-Hook-PopUp/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
