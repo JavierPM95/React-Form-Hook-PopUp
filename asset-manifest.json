@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Form-Hook-PopUp/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/React-Form-Hook-PopUp/static/js/main.bf2b553a.chunk.js",
+    "main.js.map": "/React-Form-Hook-PopUp/static/js/main.bf2b553a.chunk.js.map",
+    "runtime-main.js": "/React-Form-Hook-PopUp/static/js/runtime-main.aa5a3351.js",
+    "runtime-main.js.map": "/React-Form-Hook-PopUp/static/js/runtime-main.aa5a3351.js.map",
+    "static/css/2.f2a4cc7b.chunk.css": "/React-Form-Hook-PopUp/static/css/2.f2a4cc7b.chunk.css",
+    "static/js/2.882b401f.chunk.js": "/React-Form-Hook-PopUp/static/js/2.882b401f.chunk.js",
+    "static/js/2.882b401f.chunk.js.map": "/React-Form-Hook-PopUp/static/js/2.882b401f.chunk.js.map",
+    "index.html": "/React-Form-Hook-PopUp/index.html",
+    "precache-manifest.b3e123e6a547a619cf27bd0b65ebb5b2.js": "/React-Form-Hook-PopUp/precache-manifest.b3e123e6a547a619cf27bd0b65ebb5b2.js",
+    "service-worker.js": "/React-Form-Hook-PopUp/service-worker.js",
+    "static/css/2.f2a4cc7b.chunk.css.map": "/React-Form-Hook-PopUp/static/css/2.f2a4cc7b.chunk.css.map",
+    "static/css/main.d498bfb3.chunk.css.map": "/React-Form-Hook-PopUp/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.882b401f.chunk.js.LICENSE.txt": "/React-Form-Hook-PopUp/static/js/2.882b401f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa5a3351.js",
+    "static/css/2.f2a4cc7b.chunk.css",
+    "static/js/2.882b401f.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.bf2b553a.chunk.js"
+  ]
+}
