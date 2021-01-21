@@ -62,7 +62,7 @@ const AddUserForm = (props) => {
           </ModalBody>
           <ModalFooter>
             {props.editingForm ? (
-              <button className="btn btn-primary">"Edit user"</button>
+                <button className="btn btn-primary">"Edit user"</button>
             ) : (
               <button className="btn btn-primary">"Add new user"</button>
             )}
